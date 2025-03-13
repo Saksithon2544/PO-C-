@@ -17,6 +17,13 @@ namespace SaksithonApp.controllers
             return CreatedAtAction(nameof(GetPO), new { id }, new { id, poDetails });
         }
 
+        // GET: ดึงข้อมูลใบสั่งซื้อทั้งหมด
+        [HttpGet]
+        public IActionResult GetPOs()
+        {
+            return Ok(POs.Select(kvp => new { kvp.Key, kvp.Value }));
+        }
+
         // GET: ดึงข้อมูลใบสั่งซื้อตาม ID
         [HttpGet("{id}")]
         public IActionResult GetPO(int id)
