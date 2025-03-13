@@ -148,6 +148,7 @@ D:\Dev\C#\SaksithonApp\obj\Debug\net8.0\SaksithonApp.GeneratedMSBuildEditorConfi
 D:\Dev\C#\SaksithonApp\obj\Debug\net8.0\SaksithonApp.AssemblyInfoInputs.cache
 D:\Dev\C#\SaksithonApp\obj\Debug\net8.0\SaksithonApp.AssemblyInfo.cs
 D:\Dev\C#\SaksithonApp\obj\Debug\net8.0\SaksithonApp.csproj.CoreCompileInputs.cache
+D:\Dev\C#\SaksithonApp\obj\Debug\net8.0\SaksithonApp.sourcelink.json
 D:\Dev\C#\SaksithonApp\obj\Debug\net8.0\Saksitho.D8F0471D.Up2Date
 D:\Dev\C#\SaksithonApp\obj\Debug\net8.0\SaksithonApp.dll
 D:\Dev\C#\SaksithonApp\obj\Debug\net8.0\refint\SaksithonApp.dll
