@@ -42,6 +42,7 @@ D:\Dev\C#\SaksithonApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
 D:\Dev\C#\SaksithonApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 D:\Dev\C#\SaksithonApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\Dev\C#\SaksithonApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dev\C#\SaksithonApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
 D:\Dev\C#\SaksithonApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Dev\C#\SaksithonApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Dev\C#\SaksithonApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

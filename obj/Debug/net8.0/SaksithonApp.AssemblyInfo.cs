@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaksithonApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+750d4b59fc3f9a8aa6519653299e87ac9a95d222")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16a364bffa7f39d952416932e914066629170551")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaksithonApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaksithonApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
