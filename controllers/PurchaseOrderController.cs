@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Swashbuckle.AspNetCore.Annotations; // เพิ่มการใช้งาน Swashbuckle
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace SaksithonApp.Controllers
 {
